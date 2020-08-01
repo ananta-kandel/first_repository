@@ -1,1 +1,5 @@
 this the software to make the version 1 
+# include<stdio.h>
+int main(){
+return;
+}
