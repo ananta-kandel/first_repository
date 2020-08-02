@@ -1,2 +1,18 @@
 this is the version 23 utility software
 i love you 
+# include<stdio.h>
+//  for the finding of area of rectangle 
+
+int main(){
+    int length,breadth,area;
+
+    printf("Enter the value for length:");
+    scanf("%d",&length);
+    printf("Enter the value for breadth:");
+    scanf("%d",&breadth);
+    area=length*breadth;
+    printf("The AREA odf the given rectangle is %d cm^2",area);
+
+
+    return 0;
+}
